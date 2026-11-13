@@ -1,4 +1,6 @@
 
+export default function Home() {
+
 const phone = "9445526151";
 const whatsapp = `https://wa.me/91${phone}`;
 
@@ -26,7 +28,7 @@ const services = [
   },
 ];
 
-export default function Home() {
+
   return (
     <main className="min-h-screen overflow-hidden bg-[#07111f] text-white">
       {/* HEADER */}
