@@ -286,7 +286,7 @@ const services = [
           </div>
 
           <p className="text-sm text-gray-500">
-            © {new Date().getFullYear()} Rajvision Cable.
+            ©  Rajvision Cable.
           </p>
         </div>
       </footer>
